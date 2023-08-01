@@ -11,7 +11,7 @@ In this repository, you will find categories for various product areas. Feel fre
 | 🔁 [API and Webhooks](https://github.com/orgs/community/discussions/categories/api-and-webhooks) 	| [GitHub API](https://docs.github.com/en/rest) and [GitHub Webhooks](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhook) |
 | 🔎 [Code Search & Navigation](https://github.com/orgs/community/discussions/categories/code-search-and-navigation) 	| [Code Search & Navigation](https://cs.github.com/about) 	|
 | 💻 [Codespaces](https://github.com/orgs/community/discussions/categories/codespaces) 	| [GitHub Codespaces](https://github.com/features/codespaces) 	|
-| 👩‍✈️ [Copilot](https://github.com/orgs/community/discussions/categories/copilot)   	| [GitHub Copilot](https://copilot.github.com/) (Technical Preview) 	|
+| 👩‍✈️ [Copilot](https://github.com/orgs/community/discussions/categories/copilot)   	| [GitHub Copilot](https://copilot.github.com/) 	|
 | 🤖 [Code Security](https://github.com/orgs/community/discussions/categories/code-security) 	| [GitHub Code Security](https://github.com/features/security) 	|
 | 🗣️ [Discussions](https://github.com/orgs/community/discussions/categories/discussions)  	| [GitHub Discussions](https://docs.github.com/en/discussions) 	|
 | 🌐 [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
@@ -21,7 +21,6 @@ In this repository, you will find categories for various product areas. Feel fre
 | 📱 [Mobile](https://github.com/orgs/community/discussions/categories/mobile) 	| [GitHub Mobile](https://github.com/mobile) 	|
 | 📦 [Packages](https://github.com/orgs/community/discussions/categories/packages) 	| [GitHub Packages](https://github.com/features/packages) |
 | 🗒️ [Pages](https://github.com/orgs/community/discussions/categories/pages)    | [GitHub Pages](https://docs.github.com/en/pages)  |
-| 📶 [Polls](https://github.com/orgs/community/discussions/categories/polls)  	| [GitHub Polls](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
 | 🖼️ [Profile](https://github.com/orgs/community/discussions/categories/profile)  	| [GitHub Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
 | ✔️ [Pull Requests](https://github.com/orgs/community/discussions/categories/pull-requests) 	| [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) 	|
 | 🗳️ [Repositories](https://github.com/orgs/community/discussions/categories/repositories)  	| [GitHub Repositories](https://docs.github.com/en/repositories) 	|
@@ -40,6 +39,8 @@ You will also find previous Discourse Community Forum categories that have since
 | Code to Cloud 	| Actions and Packages |
 | GitHub Ecosystem 	| APIs and Integrations 	|
 | Uncategorized 	| General 	|
+| Software Development 	| Programming Help 	|
+| 	| Machine Learning and ML Ops 	|
 
 When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
 
@@ -47,7 +48,7 @@ This repository works in conjunction with the [GitHub public product roadmap](ht
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/community/discussions/1) for guidance on how to kick off a successful discussion.
+We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. 
 
 Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
 
